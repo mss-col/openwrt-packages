@@ -1,5 +1,5 @@
 Package: luci-app-helium
-Version: 1.0.1-1
+Version: 1.0.2-1
 Depends: luci-base, luci-compat, rpcd, rpcd-mod-luci
 Source: https://github.com/mss-col/luci-app-helium
 SourceName: luci-app-helium
@@ -11,7 +11,7 @@ Installed-Size: 53723
 Description: LuCI support for Helium DNS Ad Blocker
  Modern web interface for Helium - Universal DNS-based Ad Blocker.
  Features smart IPv6 detection, provider management, whitelist/blacklist.
-Filename: luci-app-helium_1.0.1-1_all.ipk
-Size: 14104
-SHA256sum: fd5e8f8802315002d0318c2b02c96b61f4af3e2e72a958498619289a19d46c8c
+Filename: luci-app-helium_1.0.2-1_all.ipk
+Size: 14106
+SHA256sum: 816497d191ff582b7bcad77775124aed79d3c13c03d580190d8c9328ac84457b
 
