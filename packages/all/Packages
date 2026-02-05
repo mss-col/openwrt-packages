@@ -1,5 +1,5 @@
 Package: luci-app-helium
-Version: 4.2.5
+Version: 4.2.6
 Depends: libc, luci-base
 Source: feeds/base/luci-app-helium
 SourceName: luci-app-helium
@@ -8,9 +8,9 @@ Section: luci
 SourceDateEpoch: 1727094886
 Maintainer: OpenWrt LuCI community
 Architecture: all
-Installed-Size: 30578
+Installed-Size: 30693
 Description:  Modern web interface for Helium - Universal DNS-based Ad Blocker. Features smart IPv6 detection, provider management, whitelist/blacklist, and real-time status. Dual UI support: Modern JS view for OpenWrt 21.02+ and HTM template for QWRT/Legacy LuCI.
-Filename: luci-app-helium_4.2.5-1_all.ipk
-Size: 31563
-SHA256sum: d6be746a1ee6304fa3f40055e15b8239100eeed34fee083e07587d5e5b713a81
+Filename: luci-app-helium_4.2.6-1_all.ipk
+Size: 31673
+SHA256sum: 971f76f24624192eeba671a5e3b3ad7cc92a85b8f44b9a14ea16669bdc47a214
 
